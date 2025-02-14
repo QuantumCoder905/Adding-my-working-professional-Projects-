@@ -4,3 +4,4 @@ These consist of different projects which I have been working on currently . Dif
 There were around 3 to 4 projects which I have worked on and will be describing it in a brief manner 
 The First project which I did was based on Application Development 
 Department : Life Sciences Application Development & Maintainence CLient : Pfizer Pharmaceuticals Location : Offshore 
+Starting with the description of the project 
