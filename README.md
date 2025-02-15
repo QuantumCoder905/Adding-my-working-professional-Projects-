@@ -5,3 +5,4 @@ There were around 3 to 4 projects which I have worked on and will be describing 
 The First project which I did was based on Application Development 
 Department : Life Sciences Application Development & Maintainence CLient : Pfizer Pharmaceuticals Location : Offshore 
 Starting with the description of the project 
+Pfizer pharmeuticals I have worked on
