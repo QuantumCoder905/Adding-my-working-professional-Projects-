@@ -6,4 +6,5 @@ The First project which I did was based on Application Development
 Department : Life Sciences Application Development & Maintainence CLient : Pfizer Pharmaceuticals Location : Offshore 
 Starting with the description of the project 
 Pfizer pharmeuticals I have worked 
-Responsible for IT application support, management, and maintenance
+Responsible for IT application support, management, and maintenance type of Work : 
+Pfizer is typhically based out of US where they provide different type of clinical support and solutions . 
