@@ -7,4 +7,5 @@ Department : Life Sciences Application Development & Maintainence CLient : Pfize
 Starting with the description of the project 
 Pfizer pharmeuticals I have worked 
 Responsible for IT application support, management, and maintenance type of Work : 
-Pfizer is typhically based out of US where they provide different type of clinical support and solutions . 
+Pfizer is typhically based out of US where they provide different type of clinical support and solutions . The total project experience took around 1 year . 
+
